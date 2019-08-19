@@ -14,7 +14,7 @@ body {
 #texto {
 	font-family: 'nunitoregular', sans-serif;
 	font-size: 8vw;
-	color: #E06885;
+	color: #EB868C;
 	text-align: center;
 	position: absolute;
 	top: 35%;
@@ -29,10 +29,10 @@ body {
 
 @-webkit-keyframes glow {
 	from {
-		text-shadow: 0 0 10px #E06885, 0 0 20px #E06885, 0 0 30px #dd0048, 0 0 40px #dd0048, 0 0 50px #dd0048, 0 0 60px #dd0048, 0 0 70px #dd0048;
+		text-shadow: 0 0 10px #EB868C, 0 0 20px #EB868C, 0 0 30px #FF1F17, 0 0 40px #FF1F17, 0 0 50px #FF1F17, 0 0 60px #FF1F17, 0 0 70px #FF1F17;
 	}
 	to {
-		text-shadow: 0 0 20px #E06885, 0 0 30px #E06885, 0 0 40px #dd0048, 0 0 50px #dd0048, 0 0 60px #dd0048, 0 0 70px #dd0048, 0 0 80px #dd0048;
+		text-shadow: 0 0 20px #EB868C, 0 0 30px #EB868C, 0 0 40px #FF1F17, 0 0 50px #FF1F17, 0 0 60px #FF1F17, 0 0 70px #FF1F17, 0 0 80px #FF1F17;
 	
 	}
 }
