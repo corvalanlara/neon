@@ -12,8 +12,9 @@ function elNeonEs() {
 		'FASCISTA',
 		'PLEGARIA',
 		'LATIDO',
+		'DECLIVE',
 	];
-	return lista[Math.floor(Math.random() * 12)]
+	return lista[Math.floor(Math.random() * 13)]
 }
 
 var neon = document.querySelector('#texto');
